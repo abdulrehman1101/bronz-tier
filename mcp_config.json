@@ -1,0 +1,28 @@
+{
+  "servers": [
+    {
+      "name": "filesystem",
+      "command": "node",
+      "args": ["mcp-filesystem/index.js"],
+      "env": {
+        "VAULT_PATH": "C:\\Users\\rehman\\hackathon-0\\bronze-tier\\AI_Employee_Vault"
+      }
+    },
+    {
+      "name": "email",
+      "command": "node",
+      "args": ["mcp-email/index.js"],
+      "env": {
+        "GMAIL_CREDENTIALS": "C:\\path\\to\\gmail_credentials.json"
+      }
+    },
+    {
+      "name": "browser",
+      "command": "npx",
+      "args": ["@anthropic/browser-mcp"],
+      "env": {
+        "HEADLESS": "true"
+      }
+    }
+  ]
+}
