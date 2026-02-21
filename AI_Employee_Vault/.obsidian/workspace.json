@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb290560d3351a16",
+        "id": "7d066464715fcdb6",
         "type": "tabs",
         "children": [
           {
-            "id": "95b30199074bac01",
+            "id": "bc9d70070a2fd2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Done/EMAIL_urgent_003.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "EMAIL_urgent_003"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Done/EMAIL_urgent_003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks for EMAIL_urgent_003"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Done/EMAIL_urgent_003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dashboard"
+              "title": "Outgoing links from EMAIL_urgent_003"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Done/EMAIL_urgent_003.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of EMAIL_urgent_003"
             }
           }
         ]
@@ -183,10 +183,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "95b30199074bac01",
+  "active": "bc9d70070a2fd2a6",
   "lastOpenFiles": [
-    "Inbox/test_task.md",
+    "Done/EMAIL_test_001.md",
+    "Done/EMAIL_urgent_003.md",
+    "Done/AI_Automation_Request.md",
+    "Dashboard.md",
     "Company_Handbook.md",
-    "Dashboard.md"
+    "Pending_Approval/APPROVAL_REQUEST_AI_Automation_Setup_2026-02-21.md",
+    "Dashboard.md.tmp.12720.1771697205105",
+    "Plans/AI_Automation_Setup_Execution_Plan.md",
+    "Dashboard.md.tmp.12720.1771696526871",
+    "Dashboard.md.tmp.12720.1771696379044",
+    "Needs_Action/AI_Automation_Request.md",
+    "Inbox/AI_Automation_Request.md",
+    "Inbox/EMAIL_urgent_003.md",
+    "Needs_Action/EMAIL_urgent_003.md",
+    "Needs_Action/EMAIL_test_001.md.md",
+    "Dashboard.md.tmp.12720.1771694225639",
+    "Needs_Action/EMAIL_test_001.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Inbox/test_task.md",
+    "Untitled.md"
   ]
 }
